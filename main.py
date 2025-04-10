@@ -128,7 +128,7 @@ operations = {
 }
 
 # Streamlit UI
-st.title("🧪 Image Processing Tool")
+st.title("🧪 Image Processing Tool\n Rhythm Ravi")
 
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png", "bmp", "tiff"])
 
